@@ -81,14 +81,6 @@ public class MainWindow extends JFrame implements ActionListener, ChangeListener
 		mainMenuWindow=new JMenu("Window");
 		mmBar.add(mainMenuWindow);
 		
-/*		//comboBox
-		cbFontName=new JComboBox();
-		cbFontName.addItem("Arial");
-		cbFontName.addItem("Courier");
-		cbFontName.addItem("Times New Roman");
-		cbFontName.setSelectedIndex(0);
-		cbFontName.addActionListener(this); //comboBoxChanged, getSelectedIndex()
-*/		
 		//------first group, font name 	
 		//pnlFontName hold 3 font name radio buttons
 		bgFontName=new ButtonGroup();
