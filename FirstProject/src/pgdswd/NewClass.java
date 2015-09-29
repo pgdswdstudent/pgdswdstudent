@@ -1,5 +1,4 @@
 package pgdswd;
-
 /**
  *
  * @author Sipho Maleka
@@ -10,5 +9,15 @@ public class NewClass {
         System.out.print("sipho");
         System.out.print("sipho");
         System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        System.out.print("sipho");
+        
     }
 }
